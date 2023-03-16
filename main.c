@@ -1,6 +1,6 @@
 /******************************************************************************
 MANIPULANDO VETOR
-LEITURA DOS DADOS DE UM VETOR
+ENCONTRAR O MAIOR VALOR DENTRO DE UM VETOR
 *******************************************************************************/
 
 #include <stdio.h>
